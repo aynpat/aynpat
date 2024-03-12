@@ -6,7 +6,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-g-5289701ba)
 
+---
 
+### 🛠 &nbsp;Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,typescript,reactjs&theme=light)](https://skillicons.dev)
 
 
