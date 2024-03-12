@@ -11,10 +11,16 @@
 ### 🛠 &nbsp;Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,typescript,reactjs&theme=light)](https://skillicons.dev)
 
+--- 
 
+### 🔥 &nbsp; My Stats :
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aynpat&theme=dark&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aynpat&layout=compact&theme=vision-friendly-dark)](https://github.com/aynpat/github-readme-stats)
+---
 
+### ✍️ Blog Posts 
 
 
 
