@@ -4,7 +4,7 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/patrick-g-5289701ba/" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://icons8.com/icon/xuvGCOXi8Wyg/linkedin)" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
