@@ -8,11 +8,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,javascript,c,vim" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aynpat&theme=dark&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
 
 
