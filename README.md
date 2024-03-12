@@ -2,7 +2,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 </div>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+</p>
 <!--
 **aynpat/aynpat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
