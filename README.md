@@ -4,9 +4,9 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/patrick-g-5289701ba/" target="blank">
+
   [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/patrick-g-5289701ba)
-</a>
+
 </p>
 
 
