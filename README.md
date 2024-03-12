@@ -7,8 +7,8 @@
 <a href="https://www.linkedin.com/in/patrick-g-5289701ba/" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://icons8.com/icon/xuvGCOXi8Wyg/linkedin)" alt="" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 
