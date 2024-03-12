@@ -9,7 +9,7 @@
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,typescript,reactJs,python,mongodb,Sql,mysql,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,typescript,react,python,mongodb,mysql,git&theme=light)](https://skillicons.dev)
 
 --- 
 
