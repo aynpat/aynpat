@@ -4,7 +4,7 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="your link"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"/></a>
+<a href="www.linkedin.com/in/patrick-g-5289701ba"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"/></a>
 </p>
 
 
