@@ -10,7 +10,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=docker,html,c,vim" />
   </a>
 </p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aynpat&theme=dark&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
