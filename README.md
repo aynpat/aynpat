@@ -4,7 +4,7 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin")]((https://www.linkedin.com/in/patrick-g-5289701ba/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/patrick-g-5289701ba/)
 
 </p>
 
