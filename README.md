@@ -8,7 +8,7 @@
 
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-g-5289701ba)
 
 <a href="www.linkedin.com/in/patrick-g-5289701ba"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"/></a>
 
