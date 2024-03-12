@@ -8,7 +8,7 @@
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,typescript,reactjs&theme=light)](https://skillicons.dev)
 
 
 
