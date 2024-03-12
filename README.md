@@ -5,8 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
- <a href="
-www.linkedin.com/in/patrick-g-5289701ba"><img src="<i class="ci ci-redis ci-3x"></i>"/></a>
+ <a href="www.linkedin.com/in/patrick-g-5289701ba"><i class="ci ci-redis ci-3x"></i></a>
 
 </p>
 
