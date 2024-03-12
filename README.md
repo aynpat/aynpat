@@ -1,6 +1,6 @@
 <div align="center" margin-bottom="30px">Hi there 👋</div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="110" height="110/>
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100" />
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
