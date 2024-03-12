@@ -4,10 +4,10 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/patrick-g-5289701ba/)
+
 
 </p>
-
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/patrick-g-5289701ba/)
 <a href="www.linkedin.com/in/patrick-g-5289701ba"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"/></a>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,typescript,reactjs&theme=light)](https://skillicons.dev)
