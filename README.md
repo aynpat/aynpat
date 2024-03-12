@@ -7,7 +7,9 @@
 
 
 </p>
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/patrick-g-5289701ba/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+
 <a href="www.linkedin.com/in/patrick-g-5289701ba"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"/></a>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,typescript,reactjs&theme=light)](https://skillicons.dev)
